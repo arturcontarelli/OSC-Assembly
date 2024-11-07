@@ -5,7 +5,7 @@ Este repositório contém exercícios e trabalhos realizados na disciplina de **
 ## Estrutura do Repositório
 
 - `Atividades/` - Contém os exercícios práticos realizados em aula.
-- `Trabalhos/` - Contém os trabalhos e projetos desenvolvidos ao longo do curso.
+- `Projetos/` - Contém os trabalhos e projetos desenvolvidos ao longo do curso.
 
 ## Pré-requisitos
 
