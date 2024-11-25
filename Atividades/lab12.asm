@@ -1,3 +1,12 @@
+; O objetivo desta atividade é permitir que o aluno seja capaz de utilizar as instruções lógicas e de
+; deslocamento.
+; Uso das instruções de manipulação de string
+; Fazer um programa que (um procedimento para cada):
+; 1 – leia um string e armazene na memória e imprima o string lido
+; 2 – copie este sting em outro
+; 3 – compara o string lido com um já armazenado na memória e diga se são iguais ou
+; não.
+; 4 - verifique quantas letras ‘a’ tem o string
 ENDL MACRO
     PUSH AX
     PUSH DX
